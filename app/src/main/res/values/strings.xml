@@ -1,0 +1,42 @@
+<resources>
+    <string name="state_name">Barinas</string>
+    <string name="recommendations_text">Recomendaciones</string>
+    <string name="recommended_place">Recomendado</string>
+
+    <string name="back_button">Atras</string>
+
+    <string name="app_name">My City</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_places">Kid-Friendly Places</string>
+
+    <string name="categories_text">Categorias</string>
+
+    <!-- Coffee Shops -->
+    <string name="coffe_shop_title_1">The Daily Fix Cafe</string>
+    <string name="coffe_shop_detail_1">
+        "The Daily Fix was founded in 2014 with the idea of serving simple tasty food and great coffee. We serve specialty coffee which we roast in-house in a different location. *We are located inside Next KK on Jalan Hang Jebat (Spot the old television outside!)"
+    </string>
+    <string name="coffe_shop_title_2">WA COFFEE and ROASTERY</string>
+    <string name="coffe_shop_detail_2">
+        "We roast our own bean and sharing coffee to customer~"
+    </string>
+    <string name="coffe_shop_title_3">The Stolen Cup</string>
+    <string name="coffe_shop_detail_3">
+        "A modest cafe that strives to provide one of Melaka's Best Coffee, French Viennoiseries, and French- Melbourne Brunch experiences. The majority of our food, including our pastries and bread, is made in-house. This ensures authenticity and allows customer to enjoy having a healthier option meal."
+    </string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_title_1">The Daily Fix Cafe</string>
+    <string name="restaurant_detail_1">
+        "The Daily Fix was founded in 2014 with the idea of serving simple tasty food and great coffee. We serve specialty coffee which we roast in-house in a different location. *We are located inside Next KK on Jalan Hang Jebat (Spot the old television outside!)"
+    </string>
+    <string name="restaurant_title_2">From Wild Coriander Melaka</string>
+    <string name="restaurant_detail_2">
+        "Wild Coriander serves Local and Asian Food"
+    </string>
+    <string name="restaurant_title_3">Hard Rock Cafe Melaka</string>
+    <string name="restaurant_detail_3">
+        "Located along Lorong Hang Jebat, Malacca, just steps from Jonker Street and the Melaka River, Hard Rock Cafe Melaka brings together great food, music, and culture in the heart of Melaka’s UNESCO World Heritage City. The cafe serves legendary American flavors, including world-famous burgers, juicy steaks, and handcrafted cocktails made with ingredients from halal-certified suppliers. Guests can explore unique music memorabilia from iconic artists and shop for exclusive Rock Shop® merchandise, perfect for collectors and gifts. Regular live music performances create a lively atmosphere, making this one of the top restaurants for travelers and locals to enjoy."
+    </string>
+</resources>
