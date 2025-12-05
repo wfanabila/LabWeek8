@@ -21,18 +21,12 @@ import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFact
 import kotlinx.serialization.json.Json
 import okhttp3.MediaType.Companion.toMediaType
 
-/**
- * Dependency Injection container at the application level.
- */
+
 interface AppContainer {
     val marsPhotosRepository: MarsPhotosRepository
 }
 
-/**
- * Implementation for the Dependency Injection container at the application level.
- *
- * Variables are initialized lazily and the same instance is shared across the whole app.
- */
+
 class DefaultAppContainer : AppContainer {
     private val baseUrl = "https://android-kotlin-fun-mars-server.appspot.com/"
 
