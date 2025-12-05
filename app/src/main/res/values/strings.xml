@@ -1,16 +1,15 @@
 <resources>
-    <string name="state_name">Barinas</string>
-    <string name="recommendations_text">Recomendaciones</string>
-    <string name="recommended_place">Recomendado</string>
+    <string name="state_name">Lets visit Malacca</string>
+    <string name="recommendations_text">Recomendation</string>
+    <string name="recommended_place">Recommend</string>
 
     <string name="back_button">Atras</string>
 
     <string name="app_name">My City</string>
     <string name="coffee_shops">Coffee Shops</string>
     <string name="restaurants">Restaurants</string>
-    <string name="kid_places">Kid-Friendly Places</string>
 
-    <string name="categories_text">Categorias</string>
+    <string name="categories_text">Categories</string>
 
     <!-- Coffee Shops -->
     <string name="coffe_shop_title_1">The Daily Fix Cafe</string>
