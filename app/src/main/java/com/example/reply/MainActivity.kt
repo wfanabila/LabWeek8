@@ -57,7 +57,8 @@ fun ReplyAppCompactPreview() {
     ReplyTheme {
         Surface {
             ReplyApp(
-                windowSize = WindowWidthSizeClass.Compact,
+                windowSize = WindowWidthSizeClass.Expanded
+                ,
             )
         }
     }
